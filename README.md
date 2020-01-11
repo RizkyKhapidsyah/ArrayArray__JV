@@ -24,7 +24,7 @@ Fundamental Pemrograman Java: Pengenalan dan Pengoperasian Semua Jenis Array Di 
 ## Bagian 4: (Output) Mengenal Array Lebih Dalam<br>
 <img src="https://github.com/RizkyKhapidsyah/ArrayArray__JV/blob/master/results/b04_r1.PNG">
 
-## Bagian 5: (Output) Mengenal Array Lebih Dalam<br>
+## Bagian 5: (Output) Latihan Array<br>
 <img src="https://github.com/RizkyKhapidsyah/ArrayArray__JV/blob/master/results/b05_r1.PNG">
 <img src="https://github.com/RizkyKhapidsyah/ArrayArray__JV/blob/master/results/b05_r2.PNG">
 <img src="https://github.com/RizkyKhapidsyah/ArrayArray__JV/blob/master/results/b05_r3.PNG">
